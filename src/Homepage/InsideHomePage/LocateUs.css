@@ -1,0 +1,22 @@
+.locateUs {
+  width: 70%;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.locateUs iframe {
+  width: 100%;
+  height: 50vh;
+}
+
+.locateUs h1 {
+  font-size: 2.5rem;
+  color: darkblue;
+  font-weight: 1000;
+}
+
+@media (max-width: 480px) {
+  .locateUs {
+    width: 90%;
+  }
+}
