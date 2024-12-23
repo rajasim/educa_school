@@ -1,5 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:/about
-Disallow:/enquiry
+allow:/about
+allow:/enquiry
 Allow:/gallery
