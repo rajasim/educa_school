@@ -1,5 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-allow:/about
-allow:/enquiry
-Allow:/gallery
+Disallow: /private/
+Sitemap: https://educa-school-rirk.vercel.app/sitemap.xml
